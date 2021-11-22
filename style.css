@@ -444,6 +444,8 @@ header .navbar a:hover{
 .footer{
   background:#000;
   text-align: center;
+  bottom: 0px;
+width: 400px;
 }
 
 
@@ -564,7 +566,7 @@ header .navbar a:hover{
     font-size: 50%;
   }
 
-  .order .row form .inputBox input{
+  .Help .row form .inputBox input{
     width:100%;
   }
 
