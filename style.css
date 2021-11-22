@@ -340,13 +340,13 @@ header .navbar a:hover{
   top:0;
 }
 
-.review .box-container{
+.About .box-container{
   display: flex;
   flex-wrap: wrap;
   gap:1.5rem;
 }
 
-.review .box-container .box{
+.About .box-container .box{
   text-align: center;
   padding:2rem;
   border:1rem solid #fff;
@@ -357,7 +357,7 @@ header .navbar a:hover{
   margin-top: 6rem;
 }
 
-.review .box-container .box img{
+.About .box-container .box img{
   height: 12rem;
   width:12rem;
   border-radius: 50%;
@@ -366,19 +366,19 @@ header .navbar a:hover{
   object-fit: cover;
 }
 
-.review .box-container .box h3{
+.About .box-container .box h3{
   font-size: 2.5rem;
   color:#fff;
   padding:.5rem 0;
 }
 
-.review .box-container .box .stars i{
+.About .box-container .box .stars i{
   font-size: 2rem;
   color:var(--red);
   padding:.5rem 0;
 }
 
-.review .box-container .box p{
+.About .box-container .box p{
   font-size: 1.5rem;
   color:#eee;
   padding:1rem 0;
