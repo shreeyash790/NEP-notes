@@ -441,16 +441,12 @@ header .navbar a:hover{
   background:var(--red);
 }
 
-footer {
-background-color: #000;
-position:fixed;
-bottom: 0px;
-width: 400px;
-text-align: center;
+.footer{
+  background:#000;
+  text-align: center;
+  position:fixed;
 }
-<footer align="center">
-    <p>March 25, 2</p>
-</footer>
+
 
 .footer .share{
   display: flex;
